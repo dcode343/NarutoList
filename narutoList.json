@@ -1,0 +1,1054 @@
+{
+  "Name": "Naruto",
+  "Source": "Mixed",
+  "Episodes": null,
+  "Parts": [
+    {
+      "Name": "Naruto (Part 1)",
+      "Source": "Mixed",
+      "Episodes": null,
+      "Parts": [
+        {
+          "Name": "Enter: Naruto Uzumaki!",
+          "Source": "Manga",
+          "Episodes": "1",
+          "Parts": []
+        },
+        {
+          "Name": "My Name is Konohamaru!",
+          "Source": "Manga",
+          "Episodes": "2",
+          "Parts": []
+        },
+        {
+          "Name": "Team 7",
+          "Source": "Manga",
+          "Episodes": "3-5",
+          "Parts": []
+        },
+        {
+          "Name": "Land of Waves",
+          "Source": "Manga",
+          "Episodes": "6-19",
+          "Parts": []
+        },
+        {
+          "Name": "The Ch\u016Bnin Exam Begins!",
+          "Source": "Manga",
+          "Episodes": "20-25",
+          "Parts": []
+        },
+        {
+          "Name": "Special Report: Live from the Forest of Death!",
+          "Source": "Anime",
+          "Episodes": "26",
+          "Parts": []
+        },
+        {
+          "Name": "The Ch\u016Bnin Exam Stage 2: The Forest of Death",
+          "Source": "Manga",
+          "Episodes": "27-36",
+          "Parts": []
+        },
+        {
+          "Name": "The Ch\u016Bnin Exam: Preliminaries",
+          "Source": "Manga",
+          "Episodes": "37-51",
+          "Parts": []
+        },
+        {
+          "Name": "Jiraiya Returns!",
+          "Source": "Manga",
+          "Episodes": "52-58",
+          "Parts": []
+        },
+        {
+          "Name": "The Ch\u016Bnin Exam: Finals",
+          "Source": "Manga",
+          "Episodes": "59-67",
+          "Parts": []
+        },
+        {
+          "Name": "Konoha Crush",
+          "Source": "Manga",
+          "Episodes": "68-80",
+          "Parts": []
+        },
+        {
+          "Name": "Return of the Morning Mist",
+          "Source": "Manga",
+          "Episodes": "81-85",
+          "Parts": []
+        },
+        {
+          "Name": "Search for Tsunade",
+          "Source": "Manga",
+          "Episodes": "86-96",
+          "Parts": []
+        },
+        {
+          "Name": "Kidnapped! Naruto\u0027s Hot Spring Adventure!",
+          "Source": "Anime",
+          "Episodes": "97",
+          "Parts": []
+        },
+        {
+          "Name": "Tsunade\u0027s Homecoming",
+          "Source": "Manga",
+          "Episodes": "98-100",
+          "Parts": []
+        },
+        {
+          "Name": "Gotta See! Gotta Know! Kakashi-Sensei\u0027s True Face!\r",
+          "Source": "Anime",
+          "Episodes": "101",
+          "Parts": []
+        },
+        {
+          "Name": "Land of Tea Escort Mission",
+          "Source": "Anime",
+          "Episodes": "102-106",
+          "Parts": []
+        },
+        {
+          "Name": "Sasuke Retrieval Mission",
+          "Source": "Manga",
+          "Episodes": "107-135",
+          "Parts": []
+        },
+        {
+          "Name": "Land of Rice Fields Investigation Mission",
+          "Source": "Anime",
+          "Episodes": "136-141",
+          "Parts": []
+        },
+        {
+          "Name": "Mizuki Tracking Mission",
+          "Source": "Anime",
+          "Episodes": "142-147",
+          "Parts": []
+        },
+        {
+          "Name": "Bik\u014Dch\u016B Search Mission",
+          "Source": "Anime",
+          "Episodes": "148-151",
+          "Parts": []
+        },
+        {
+          "Name": "Kurosuki Family Removal Mission",
+          "Source": "Anime",
+          "Episodes": "152-157",
+          "Parts": []
+        },
+        {
+          "Name": "Follow My Lead! The Great Survival Challenge\r",
+          "Source": "Anime",
+          "Episodes": "158",
+          "Parts": []
+        },
+        {
+          "Name": "Gosunkugi Capture Mission",
+          "Source": "Anime",
+          "Episodes": "159-160",
+          "Parts": []
+        },
+        {
+          "Name": "The Appearance of Strange Visitors\r",
+          "Source": "Anime",
+          "Episodes": "161",
+          "Parts": []
+        },
+        {
+          "Name": "Cursed Warrior Extermination Mission",
+          "Source": "Anime",
+          "Episodes": "162-167",
+          "Parts": []
+        },
+        {
+          "Name": "Mix it, Stretch it, Boil it Up! Burn Copper Pot, Burn!\r",
+          "Source": "Anime",
+          "Episodes": "168",
+          "Parts": []
+        },
+        {
+          "Name": "Kaima Capture Mission",
+          "Source": "Anime",
+          "Episodes": "169-173",
+          "Parts": []
+        },
+        {
+          "Name": "Impossible! Celebrity Ninja Art: Money Style Jutsu!\r",
+          "Source": "Anime",
+          "Episodes": "174",
+          "Parts": []
+        },
+        {
+          "Name": "Buried Gold Excavation Mission",
+          "Source": "Anime",
+          "Episodes": "175-176",
+          "Parts": []
+        },
+        {
+          "Name": "Please, Mr. Postman!\r",
+          "Source": "Anime",
+          "Episodes": "177",
+          "Parts": []
+        },
+        {
+          "Name": "Star Guard Mission",
+          "Source": "Anime",
+          "Episodes": "178-183",
+          "Parts": []
+        },
+        {
+          "Name": "Kiba\u0027s Long Day\r",
+          "Source": "Anime",
+          "Episodes": "184",
+          "Parts": []
+        },
+        {
+          "Name": "A Legend from the Hidden Leaf: The Onbaa!\r",
+          "Source": "Anime",
+          "Episodes": "185",
+          "Parts": []
+        },
+        {
+          "Name": "Laughing Shino\r",
+          "Source": "Anime",
+          "Episodes": "186",
+          "Parts": []
+        },
+        {
+          "Name": "Peddlers Escort Mission",
+          "Source": "Anime",
+          "Episodes": "187-191",
+          "Parts": []
+        },
+        {
+          "Name": "Ino Screams! Chubby Paradise!\r",
+          "Source": "Anime",
+          "Episodes": "192",
+          "Parts": []
+        },
+        {
+          "Name": "Viva Dojo Challenge! Youth is All About Passion!\r",
+          "Source": "Anime",
+          "Episodes": "193",
+          "Parts": []
+        },
+        {
+          "Name": "The Mysterious Curse of the Haunted Castle\r",
+          "Source": "Anime",
+          "Episodes": "194",
+          "Parts": []
+        },
+        {
+          "Name": "Third Great Beast Arc",
+          "Source": "Anime",
+          "Episodes": "195-196",
+          "Parts": []
+        },
+        {
+          "Name": "Konoha Plans Recapture Mission",
+          "Source": "Anime",
+          "Episodes": "197-201",
+          "Parts": []
+        },
+        {
+          "Name": "The Top 5 Ninja Battles!\r",
+          "Source": "Anime",
+          "Episodes": "202",
+          "Parts": []
+        },
+        {
+          "Name": "Yakumo Kurama Rescue Mission",
+          "Source": "Anime",
+          "Episodes": "203-207",
+          "Parts": []
+        },
+        {
+          "Name": "The Weight of the Prized Artefact!",
+          "Source": "Anime",
+          "Episodes": "208",
+          "Parts": []
+        },
+        {
+          "Name": "Gantetsu Escort Mission",
+          "Source": "Anime",
+          "Episodes": "209-212",
+          "Parts": []
+        },
+        {
+          "Name": "Menma Memory Search Mission",
+          "Source": "Anime",
+          "Episodes": "213-215",
+          "Parts": []
+        },
+        {
+          "Name": "Sunagakure Support Mission",
+          "Source": "Anime",
+          "Episodes": "216-220",
+          "Parts": []
+        }
+      ]
+    },
+    {
+      "Name": "Naruto: Shippuden",
+      "Source": "Mixed",
+      "Episodes": null,
+      "Parts": [
+        {
+          "Name": "Kazekage Rescue Mission",
+          "Source": "Manga",
+          "Episodes": "1-32",
+          "Parts": []
+        },
+        {
+          "Name": "Tenchi Bridge Reconnaissance Mission",
+          "Source": "Manga",
+          "Episodes": "33-53",
+          "Parts": []
+        },
+        {
+          "Name": "Twelve Guardian Ninja",
+          "Source": "Anime",
+          "Episodes": "54-71",
+          "Parts": []
+        },
+        {
+          "Name": "Akatsuki Suppression Mission",
+          "Source": "Manga",
+          "Episodes": "72-88",
+          "Parts": []
+        },
+        {
+          "Name": "Three-Tails\u0027 Appearance",
+          "Source": "Anime",
+          "Episodes": "89-112",
+          "Parts": []
+        },
+        {
+          "Name": "Itachi Pursuit Mission",
+          "Source": "Manga",
+          "Episodes": "113-118, 121-126",
+          "Parts": []
+        },
+        {
+          "Name": "Kakashi Gaiden",
+          "Source": "Manga",
+          "Episodes": "119-120",
+          "Parts": []
+        },
+        {
+          "Name": "Tales of a Gutsy Ninja",
+          "Source": "Manga",
+          "Episodes": "127-128",
+          "Parts": []
+        },
+        {
+          "Name": "Infiltrate! The Village Hidden in the Rain",
+          "Source": "Manga",
+          "Episodes": "129-133",
+          "Parts": []
+        },
+        {
+          "Name": "Fated Battle Between Brothers",
+          "Source": "Manga",
+          "Episodes": "134-138",
+          "Parts": []
+        },
+        {
+          "Name": "Truth",
+          "Source": "Manga",
+          "Episodes": "139-143",
+          "Parts": []
+        },
+        {
+          "Name": "Six-Tails Unleashed",
+          "Source": "Anime",
+          "Episodes": "144-151",
+          "Parts": []
+        },
+        {
+          "Name": "Mount My\u014Dboku",
+          "Source": "Manga",
+          "Episodes": "152-156",
+          "Parts": []
+        },
+        {
+          "Name": "Pain\u0027s Assault",
+          "Source": "Manga",
+          "Episodes": "157-169, 172-175",
+          "Parts": []
+        },
+        {
+          "Name": "Big Adventure! The Quest for the Fourth Hokage\u0027s Legacy\r",
+          "Source": "Anime",
+          "Episodes": "170-171",
+          "Parts": []
+        },
+        {
+          "Name": "Past Arc: The Locus of Konoha",
+          "Source": "Anime",
+          "Episodes": "176-179",
+          "Parts": []
+        },
+        {
+          "Name": "Inari\u0027s Courage Put to the Test",
+          "Source": "Anime",
+          "Episodes": "180",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto\u0027s School of Revenge",
+          "Source": "Anime",
+          "Episodes": "181",
+          "Parts": []
+        },
+        {
+          "Name": "Gaara\u0027s Bond",
+          "Source": "Anime",
+          "Episodes": "182",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto: Outbreak",
+          "Source": "Anime",
+          "Episodes": "183",
+          "Parts": []
+        },
+        {
+          "Name": "Deploy! Team Tenten",
+          "Source": "Anime",
+          "Episodes": "184",
+          "Parts": []
+        },
+        {
+          "Name": "Animal District",
+          "Source": "Anime",
+          "Episodes": "185",
+          "Parts": []
+        },
+        {
+          "Name": "Ah, the Medicine of Youth",
+          "Source": "Anime",
+          "Episodes": "186",
+          "Parts": []
+        },
+        {
+          "Name": "Record of the Gutsy Ninja Master and Student",
+          "Source": "Anime",
+          "Episodes": "187-188",
+          "Parts": []
+        },
+        {
+          "Name": "Sasuke\u0027s Paw Encyclopaedia",
+          "Source": "Anime",
+          "Episodes": "189",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto and the Old Soldier",
+          "Source": "Anime",
+          "Episodes": "190",
+          "Parts": []
+        },
+        {
+          "Name": "Kakashi Love Song",
+          "Source": "Anime",
+          "Episodes": "191",
+          "Parts": []
+        },
+        {
+          "Name": "Neji Chronicles",
+          "Source": "Anime",
+          "Episodes": "192",
+          "Parts": []
+        },
+        {
+          "Name": "The Man Who Died Twice",
+          "Source": "Anime",
+          "Episodes": "193",
+          "Parts": []
+        },
+        {
+          "Name": "The Worst Three-Legged Race",
+          "Source": "Anime",
+          "Episodes": "194",
+          "Parts": []
+        },
+        {
+          "Name": "Team 10\u0027s Teamwork",
+          "Source": "Anime",
+          "Episodes": "195",
+          "Parts": []
+        },
+        {
+          "Name": "Drive Towards Darkness",
+          "Source": "Anime",
+          "Episodes": "196",
+          "Parts": []
+        },
+        {
+          "Name": "Five Kage Summit",
+          "Source": "Manga",
+          "Episodes": "197-205",
+          "Parts": []
+        },
+        {
+          "Name": "Lost Bonds",
+          "Source": "Manga",
+          "Episodes": "206-216",
+          "Parts": []
+        },
+        {
+          "Name": "Fourth Shinobi World War: Preparations",
+          "Source": "Manga",
+          "Episodes": "217-222",
+          "Parts": []
+        },
+        {
+          "Name": "The Young Man and the Sea",
+          "Source": "Anime",
+          "Episodes": "223",
+          "Parts": []
+        },
+        {
+          "Name": "The Ninja of Benisu",
+          "Source": "Anime",
+          "Episodes": "224",
+          "Parts": []
+        },
+        {
+          "Name": "The Cursed Ghost Ship",
+          "Source": "Anime",
+          "Episodes": "225",
+          "Parts": []
+        },
+        {
+          "Name": "Battleship Island",
+          "Source": "Anime",
+          "Episodes": "226",
+          "Parts": []
+        },
+        {
+          "Name": "The Forgotten Island",
+          "Source": "Anime",
+          "Episodes": "227",
+          "Parts": []
+        },
+        {
+          "Name": "Fight! Rock Lee!",
+          "Source": "Anime",
+          "Episodes": "228",
+          "Parts": []
+        },
+        {
+          "Name": "Eat or Die! Mushrooms from Hell",
+          "Source": "Anime",
+          "Episodes": "229",
+          "Parts": []
+        },
+        {
+          "Name": "Revenge of the Shadow Clones",
+          "Source": "Anime",
+          "Episodes": "230",
+          "Parts": []
+        },
+        {
+          "Name": "The Closed Route",
+          "Source": "Anime",
+          "Episodes": "231",
+          "Parts": []
+        },
+        {
+          "Name": "The Girls\u0027 Get-Together",
+          "Source": "Anime",
+          "Episodes": "232",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto\u0027s Imposter",
+          "Source": "Anime",
+          "Episodes": "233",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto\u0027s Favourite Pupil",
+          "Source": "Anime",
+          "Episodes": "234",
+          "Parts": []
+        },
+        {
+          "Name": "The Kunoichi of Nadeshiko Village",
+          "Source": "Anime",
+          "Episodes": "235",
+          "Parts": []
+        },
+        {
+          "Name": "Friends You Can Count On",
+          "Source": "Anime",
+          "Episodes": "236",
+          "Parts": []
+        },
+        {
+          "Name": "Ah, My Hero Lady Tsunade!",
+          "Source": "Anime",
+          "Episodes": "237",
+          "Parts": []
+        },
+        {
+          "Name": "Sai\u0027s Day Off",
+          "Source": "Anime",
+          "Episodes": "238",
+          "Parts": []
+        },
+        {
+          "Name": "The Legendary Ino-Shika-Ch\u014D",
+          "Source": "Anime",
+          "Episodes": "239",
+          "Parts": []
+        },
+        {
+          "Name": "Kiba\u0027s Determination",
+          "Source": "Anime",
+          "Episodes": "240",
+          "Parts": []
+        },
+        {
+          "Name": "Kakashi, My Eternal Rival!",
+          "Source": "Anime",
+          "Episodes": "241",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto\u0027s Vow",
+          "Source": "Anime",
+          "Episodes": "242",
+          "Parts": []
+        },
+        {
+          "Name": "Island of Paradise",
+          "Source": "Manga",
+          "Episodes": "243-251, 254-256",
+          "Parts": []
+        },
+        {
+          "Name": "The Angelic Herald of Death",
+          "Source": "Manga",
+          "Episodes": "252-253",
+          "Parts": []
+        },
+        {
+          "Name": "Rivals",
+          "Source": "Anime",
+          "Episodes": "257-260",
+          "Parts": []
+        },
+        {
+          "Name": "The Fourth Shinobi World War Begins!",
+          "Source": "Manga",
+          "Episodes": "261-270, 272-280",
+          "Parts": []
+        },
+        {
+          "Name": "Road to Sakura\r",
+          "Source": "Anime",
+          "Episodes": "271",
+          "Parts": []
+        },
+        {
+          "Name": "The Allied Mom Force!!",
+          "Source": "Anime",
+          "Episodes": "281",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto Enters the Battle!",
+          "Source": "Manga",
+          "Episodes": "282-289, 296-321",
+          "Parts": []
+        },
+        {
+          "Name": "One Worth Betting On",
+          "Source": "Anime",
+          "Episodes": "286-287",
+          "Parts": []
+        },
+        {
+          "Name": "Power",
+          "Source": "Anime",
+          "Episodes": "290-295",
+          "Parts": []
+        },
+        {
+          "Name": "Ghosts from the Past",
+          "Source": "Anime",
+          "Episodes": "303-305",
+          "Parts": []
+        },
+        {
+          "Name": "The Heart\u0027s Eye",
+          "Source": "Anime",
+          "Episodes": "306",
+          "Parts": []
+        },
+        {
+          "Name": "Night of the Crescent Moon",
+          "Source": "Anime",
+          "Episodes": "307-308",
+          "Parts": []
+        },
+        {
+          "Name": "Land of This Mission",
+          "Source": "Anime",
+          "Episodes": "309-310",
+          "Parts": []
+        },
+        {
+          "Name": "Prologue of Road to Ninja\r",
+          "Source": "Anime",
+          "Episodes": "311",
+          "Parts": []
+        },
+        {
+          "Name": "The Old Master and the Dragon\u0027s Eye",
+          "Source": "Anime",
+          "Episodes": "312",
+          "Parts": []
+        },
+        {
+          "Name": "Lingering Snow",
+          "Source": "Anime",
+          "Episodes": "313-315",
+          "Parts": []
+        },
+        {
+          "Name": "The Reanimated Allied Forces",
+          "Source": "Anime",
+          "Episodes": "316-317",
+          "Parts": []
+        },
+        {
+          "Name": "A Hole in the Heart: The Other Jinch\u016Briki",
+          "Source": "Anime",
+          "Episodes": "318",
+          "Parts": []
+        },
+        {
+          "Name": "The Soul Living Inside the Puppet",
+          "Source": "Anime",
+          "Episodes": "319",
+          "Parts": []
+        },
+        {
+          "Name": "Madara Uchiha",
+          "Source": "Manga",
+          "Episodes": "322-332",
+          "Parts": []
+        },
+        {
+          "Name": "The Risks of the Impure World Reincarnation",
+          "Source": "Manga",
+          "Episodes": "333-340",
+          "Parts": []
+        },
+        {
+          "Name": "The Secret of the Space-Time Ninjutsu",
+          "Source": "Manga",
+          "Episodes": "341-348",
+          "Parts": []
+        },
+        {
+          "Name": "Kakashi\u0027s Anbu Arc: Fourth Hokage Part",
+          "Source": "Anime",
+          "Episodes": "349-350",
+          "Parts": []
+        },
+        {
+          "Name": "Kakashi\u0027s Anbu Arc: The Rogue Ninja: Orochimaru",
+          "Source": "Anime",
+          "Episodes": "351-356",
+          "Parts": []
+        },
+        {
+          "Name": "Coup d\u0027\u00C9tat",
+          "Source": "Anime",
+          "Episodes": "357-359",
+          "Parts": []
+        },
+        {
+          "Name": "J\u014Dnin Leader",
+          "Source": "Anime",
+          "Episodes": "360-361",
+          "Parts": []
+        },
+        {
+          "Name": "The Uchiha-Senju Conflict",
+          "Source": "Manga",
+          "Episodes": "362-375",
+          "Parts": []
+        },
+        {
+          "Name": "Mecha-Naruto",
+          "Source": "Anime",
+          "Episodes": "376-377",
+          "Parts": []
+        },
+        {
+          "Name": "The Ten-Tails\u0027 Jinch\u016Briki",
+          "Source": "Manga",
+          "Episodes": "378-388, 391-393",
+          "Parts": []
+        },
+        {
+          "Name": "Hanabi\u0027s Decision",
+          "Source": "Anime",
+          "Episodes": "389-390",
+          "Parts": []
+        },
+        {
+          "Name": "The Second Ch\u016Bnin Exams",
+          "Source": "Anime",
+          "Episodes": "394-413",
+          "Parts": []
+        },
+        {
+          "Name": "Infinite Tsukuyomi",
+          "Source": "Manga",
+          "Episodes": "414-421, 424-426",
+          "Parts": []
+        },
+        {
+          "Name": "The Formation of Team Minato",
+          "Source": "Anime",
+          "Episodes": "416-417",
+          "Parts": []
+        },
+        {
+          "Name": "The Ones Who Will Inherit\r",
+          "Source": "Anime",
+          "Episodes": "422-423",
+          "Parts": []
+        },
+        {
+          "Name": "To the Dreamworld",
+          "Source": "Anime",
+          "Episodes": "427-428",
+          "Parts": []
+        },
+        {
+          "Name": "Killer B Rapp\u016Bden",
+          "Source": "Anime",
+          "Episodes": "429-430",
+          "Parts": []
+        },
+        {
+          "Name": "To See That Smile, Just One More Time",
+          "Source": "Anime",
+          "Episodes": "431",
+          "Parts": []
+        },
+        {
+          "Name": "Jiraiya Shinobi Handbook: The Tale of Naruto the Hero",
+          "Source": "Anime",
+          "Episodes": "432-450",
+          "Parts": []
+        },
+        {
+          "Name": "Itachi Shinden Book: Birth and Death",
+          "Source": "Anime",
+          "Episodes": "451-452",
+          "Parts": []
+        },
+        {
+          "Name": "Itachi Shinden Book: The Pain of Living",
+          "Source": "Anime",
+          "Episodes": "453",
+          "Parts": []
+        },
+        {
+          "Name": "Itachi Shinden Book: Shisui\u0027s Request",
+          "Source": "Anime",
+          "Episodes": "454",
+          "Parts": []
+        },
+        {
+          "Name": "Itachi Shinden Book: Moonlit Night",
+          "Source": "Anime",
+          "Episodes": "455",
+          "Parts": []
+        },
+        {
+          "Name": "The Darkness of the Akatsuki",
+          "Source": "Anime",
+          "Episodes": "456-457",
+          "Parts": []
+        },
+        {
+          "Name": "Kaguya \u014Ctsutsuki Strikes",
+          "Source": "Manga",
+          "Episodes": "458-474",
+          "Parts": []
+        },
+        {
+          "Name": "Kaguya \u014Ctsutsuki",
+          "Source": "Anime",
+          "Episodes": "460",
+          "Parts": []
+        },
+        {
+          "Name": "Hagoromo and Hamura",
+          "Source": "Anime",
+          "Episodes": "461-462",
+          "Parts": []
+        },
+        {
+          "Name": "Asura and Indra",
+          "Source": "Anime",
+          "Episodes": "464-468",
+          "Parts": []
+        },
+        {
+          "Name": "A Special Mission",
+          "Source": "Anime",
+          "Episodes": "469",
+          "Parts": []
+        },
+        {
+          "Name": "The Final Battle",
+          "Source": "Manga",
+          "Episodes": "475-478",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto Uzumaki!!",
+          "Source": "Manga",
+          "Episodes": "479",
+          "Parts": []
+        },
+        {
+          "Name": "Childhood",
+          "Source": "Anime",
+          "Episodes": "480-483",
+          "Parts": []
+        },
+        {
+          "Name": "Sasuke Shinden: Book Of Sunrise",
+          "Source": "Anime",
+          "Episodes": "484-488",
+          "Parts": []
+        },
+        {
+          "Name": "Shikamaru Hiden: A Cloud Drifting In Silent Darkness",
+          "Source": "Anime",
+          "Episodes": "489-493",
+          "Parts": []
+        },
+        {
+          "Name": "Konoha Hiden: The Perfect Day For A Wedding",
+          "Source": "Anime",
+          "Episodes": "494-500",
+          "Parts": []
+        }
+      ]
+    },
+    {
+      "Name": "OVAs",
+      "Source": "Mixed",
+      "Episodes": null,
+      "Parts": [
+        {
+          "Name": "Find the Crimson Four-Leaf Clover!",
+          "Source": "Anime",
+          "Episodes": "1",
+          "Parts": []
+        },
+        {
+          "Name": "Mission: Protect the Waterfall Village",
+          "Source": "Anime",
+          "Episodes": "2",
+          "Parts": []
+        },
+        {
+          "Name": "Hidden Leaf Village Grand Sports Festival",
+          "Source": "Anime",
+          "Episodes": "3",
+          "Parts": []
+        },
+        {
+          "Name": "Finally a Clash!! Jounin vs. Genin!",
+          "Source": "Anime",
+          "Episodes": "4",
+          "Parts": []
+        },
+        {
+          "Name": "Hurricane! \u0022Hidden Leaf High School\u0022 Chronicles",
+          "Source": "Anime",
+          "Episodes": "5",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto: The Cross Roads",
+          "Source": "Anime",
+          "Episodes": "6",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto, the Genie, and the Three Wishes!!",
+          "Source": "Anime",
+          "Episodes": "7",
+          "Parts": []
+        },
+        {
+          "Name": "Naruto x UT",
+          "Source": "Anime",
+          "Episodes": "8",
+          "Parts": []
+        },
+        {
+          "Name": "Ch\u016Bnin Exam on Fire! Naruto vs. Konohamaru!",
+          "Source": "Anime",
+          "Episodes": "9",
+          "Parts": []
+        },
+        {
+          "Name": "Hashirama Senju vs. Madara Uchiha",
+          "Source": "Anime",
+          "Episodes": "10",
+          "Parts": []
+        },
+        {
+          "Name": "Sunny Side Battle!!!",
+          "Source": "Anime",
+          "Episodes": "11",
+          "Parts": []
+        },
+        {
+          "Name": "The Far Reaches of Hope",
+          "Source": "Anime",
+          "Episodes": "12",
+          "Parts": []
+        },
+        {
+          "Name": "The Two Uchiha",
+          "Source": "Anime",
+          "Episodes": "12",
+          "Parts": []
+        },
+        {
+          "Name": "The Creation of the Akatsuki",
+          "Source": "Anime",
+          "Episodes": "12",
+          "Parts": []
+        },
+        {
+          "Name": "The Day Naruto Became Hokage",
+          "Source": "Anime",
+          "Episodes": "13",
+          "Parts": []
+        }
+      ]
+    }
+  ]
+}
